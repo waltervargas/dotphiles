@@ -9,9 +9,9 @@
 
 # Global Config
 [user]
-    #name = "**Your Name**"
-    #email = "**Your Email**"
-    #signingkey = **Your GPG ID**
+    name = "Walter Vargas"
+    email = "waltervargas@linux.com"
+    signingkey = "0xFEC80165FD7916F3"
 
 [branch "master"]
     remote = origin
